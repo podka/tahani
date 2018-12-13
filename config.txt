@@ -1,0 +1,6 @@
+token=NTIxMzkwNDc2OTU2NTMyNzY1.DvPJlw.9r0JwdaWtYZcp3R-puFNMri9rs0
+owner=422004033641775106
+prefix= t
+game= thelp
+stayinchannel=true
+songinstatus=true 
